@@ -1,0 +1,1 @@
+json_simple-1.1 Jar has been used to parse the JSON and Test Input files are provided in resources folder
